@@ -132,12 +132,3 @@ The chosen model (Model 2) explains 46.5% of the variability in house prices. It
 - Economic Factors: Analyzing how economic recessions or changes in interest rates influence house prices can provide valuable insights into market dynamics.
 
 
-# Phase-2-Group-Project
-# Phase-2-Group-Project
-# Phase-2-Group-Project
-# Phase-2-Group-Project
-# Kingcounty
-# Kingcounty
-# Kingcounty
-# Kingcounty
-# Kingcounty
